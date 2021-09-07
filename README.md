@@ -1,2 +1,2 @@
 # Purpose
-This repository serves as a training platform for the Coursera IBM data science certificate courses. 
+This repository contains all the notebooks used to complete the final capstone project for the Coursera IBM data science certificate. 
