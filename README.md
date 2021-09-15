@@ -1,2 +1,3 @@
-# Purpose
-This repository serves as a training platform for the Coursera IBM data science certificate courses. 
+The final capstone project for the Coursera IBM data science professional certificate. 
+
+The project extracts launch data of SpaceX Falcon 9 rocket to make predictions on whether a launch will land successfully or not. 
