@@ -1,3 +1,7 @@
+'''
+Build a dashboard using Plotly to visualize the features vs. landing outcome: launch site & payload mass
+'''
+
 # Import required libraries
 import pandas as pd
 import dash
